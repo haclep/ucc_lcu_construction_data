@@ -1,4 +1,4 @@
-# ucc_lcu_construction_data
+# README
 
 The 'gate_count_comparison.txt' file contains data for Figure 10.
 
